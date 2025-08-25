@@ -1,0 +1,24 @@
+{
+    "id": "playwright.dev",
+    "name": "Update",
+    "registrationEnabled": false,
+    "authenticationEnabled": false,
+    "origins": [
+        "http://localhost:8081",
+        "https://playwright.dev/",
+        "https://playwright.dev/dotnet/",
+        "https://playwright.dev/dotnet/docs/api/class-playwright",
+        "ftp://playwright.dev/"
+    ],
+    "policy": {
+        "acceptableAuthenticators": [
+            "42b4fb4a-2866-43b2-9bf7-6c6669c2e5d3"
+        ],
+        "allowCertifiedAuthenticatorsOnly": true,
+        "enforceAttestation": false,
+        "acceptableAttestationTypes": [
+            "none",
+            "anonymizationCA"
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "rp_scope": [
+        "passkey:rp"
+    ],
+    "no_exist_client": "abcabcabcadcd.or.kr",
+    "clientId": "naver.com",
+    "clientSecret": "RMDg_b5jl4iBKWIfg15pL9jRyyGz11KtO_3efXc2pEg",
+    "client_encoded_credentials": "bmF2ZXIuY29tOlJNRGdfYjVqbDRpQktXSWZnMTVwTDlqUnl5R3oxMUt0T18zZWZYYzJwRWc=",
+    "registrationEnabled": true,
+    "authenticationEnabled": true,
+    "origins": [
+        "http://localhost:8081",
+        "https://naver.com"
+    ],
+    "policy": {
+        "acceptableAttestationTypes": [
+            "basic",
+            "none",
+            "attestationCA",
+            "self",
+            "anonymizationCA"
+        ]
+    }
+}

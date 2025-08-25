@@ -1,0 +1,12 @@
+{
+  "id": "2aa7c3fda15a44b1a8cfbf4ee25d5999",
+  "data": {
+    "creationResidentKey": "preferred",
+    "creationUserVerification": "preferred",
+    "creationTimeoutInMs": 300000,
+    "creationTimeoutForUvDiscouragedInMs": 120000,
+    "requestUserVerification": "preferred",
+    "requestTimeoutInMs": 300000,
+    "requestTimeoutForUvDiscouragedInMs": 120000
+  }
+}

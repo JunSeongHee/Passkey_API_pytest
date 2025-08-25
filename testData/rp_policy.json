@@ -1,0 +1,16 @@
+{
+    "acceptableAuthenticators": [
+        "42b4fb4a-2866-43b2-9bf7-6c6669c2e5d3", "9ddd1817-af5a-4672-a2b9-3e3dd95000a9"
+    ],
+    "disallowedAuthenticators": [
+        "42b4fb4a-2866-43b2-9bf7-6c6669c2e5d5", "9ddd1817-af5a-4672-a2b9-3e3dd95000a5"
+    ],
+    "allowCertifiedAuthenticatorsOnly" : true,
+    "enforceAttestation" : false,
+    "acceptableAttestationTypes" : [
+        "none",
+        "self",
+        "attestationCA",
+        "basic"
+    ]
+}

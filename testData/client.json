@@ -1,0 +1,9 @@
+{
+    "rp_scope": [
+        "passkey:rp"
+    ],
+    "no_exist_client": "abcabcabcadcd.or.kr",
+    "clientId": "playwright.dev",
+    "clientSecret": "JQTNjJ8kAgzvyMXMFP0clJqIc-j3fjY1qCmYJMIphaY",
+    "client_encoded_credentials": "cGxheXdyaWdodC5kZXY6SlFUTmpKOGtBZ3p2eU1YTUZQMGNsSnFJYy1qM2ZqWTFxQ21ZSk1JcGhhWQ=="
+}
